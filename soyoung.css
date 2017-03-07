@@ -1,3 +1,15 @@
+* {
+	margin: 0;
+}
+
+html {
+	font-size: 15px;
+	color: #333333;
+	/* ì´ ì•„ëž˜ëŠ” í¬ë§ì‚¬í•­; typography */
+	line-height: 1.5;
+	letter-spacing: -0.002em;
+}
+
 .header {
 	width: 100%;
 	height: 70px;
@@ -40,3 +52,53 @@
 .gnb > li > a:hover {
 	opacity: 0.5;
 }
+
+html{
+  margin-left: 10%; /*margin from left is 10% of the screen*/
+  margin-right: 20%;
+  font-size: 1.5em; /*unit=>em*/
+}
+img{
+  height:350px;
+  width:400px;
+}
+p{
+  font-size: 0.8em;
+  margin:0;
+  color:#FEB5BC;
+
+}
+h1{
+  margin-bottom: 1;
+  color:#FEB5BC;
+}
+h2,h5{
+margin-bottom:0;
+color:#333232}
+h6{
+  margin:0;
+}
+h4{
+  margin-bottom:1;
+  margin-top:0;
+  color:#FEB5BC;
+}
+h3{
+  margin-bottom:0;
+  color:#333232;
+}
+.major{
+  width:400px;
+  height:275px;
+}
+#coint{
+  width:400px;
+  height:100px;
+}
+.interest{
+  width:400px;
+  height: 300px;
+}
+#profile{
+  height: 350px;
+  width: 350px;
