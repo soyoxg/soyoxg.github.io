@@ -54,8 +54,8 @@ html {
 }
 
 .draft {
-	margin-left: auto;
-	margin-right:auto;
+	margin-left: 50px;
+
 }
 .draft > html{
   margin-left: 10%; /*margin from left is 10% of the screen*/
